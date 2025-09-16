@@ -1,7 +1,7 @@
 ## Task-aware text prompt fusion with contrastive learning for zero-shot anomaly detection
 
 ## Highlights
-![MFD](docs/framework.PNG)
+![MFD](docs/framework.png)
 
 > **<p align="justify"> Abstract:** Recently, vision-language pre-trained models, such as CLIP, have demon-
 strated significant potential in zero-shot anomaly detection. Current research primarily focuses on adapting CLIP for anomaly detection through
